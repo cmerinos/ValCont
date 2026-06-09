@@ -2,18 +2,18 @@
 
 R package for content validity analysis
 
-\strong{Package:} ValCont\
-\strong{Title:} R Package for content validity coefficient estimation\
-\strong{Version:} 0.1.0\
-\strong{Date:} 07-28-2025\
-[\strong{Authors\@R}](mailto:Authors@R)\strong{:}
-- \strong{Cesar Merino-Soto (aut, cre, ctb, rev)}
+**Package:** ValCont\
+**Title:** R Package for content validity coefficient estimation\
+**Version:** 0.1.0\
+**Origen Date:** 07-28-2025\
+**Authors (mailto:Authors@R):**
+- *Cesar Merino-Soto (aut, cre, ctb, rev)*
 - Email: [sikayax\@yahoo.com.ar](mailto:sikayax@yahoo.com.ar)
 - ORCID: https://orcid.org/0000-0001-8049-7069
-- \strong{Jose Livia-Segovia (aut, ctb)}
+- *Jose Livia-Segovia (aut, ctb)*
 - Email: [joselivia\@gmail.com](mailto:joselivia@gmail.com)
 - ORCID: https://orcid.org/0000-0003-2226-3349
-- \strong{Diego Livia-Ortiz (aut, ctb, cre, rev)}
+- *Diego Livia-Ortiz (aut, ctb, cre, rev)*
 - Email: [diegolivia\@hotmail.com](mailto:diegolivia@hotmail.com)
 - ORCID: https://orcid.org/0000-0002-2107-3140
 
