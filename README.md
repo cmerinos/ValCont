@@ -17,7 +17,7 @@ R package for content validity analysis
 - Email: [diegolivia\@hotmail.com](mailto:diegolivia@hotmail.com)
 - ORCID: https://orcid.org/0000-0002-2107-3140
 
-*Description:*\
+## Description:
 `ValCont` is a dedicated content validity package in R. `ValCont` implement the computation of several coefficients used in content validity studies, with data usually obtained from selected participants such as expert judges or experiential judges. The coefficients calculated by ValCont are:
 
 -   CVC (Hernandez-Nieto, 2002)
@@ -40,7 +40,7 @@ Some functions were added to estimate other relevant aspects of the content vali
 
 -   Basic functions to make graphs of results are also implemented.
 
-\strong{Install:}
+## Install:
 
 You can install the development version of `ValCont` from GitHub using:
 ```R
@@ -49,7 +49,7 @@ if(!"devtools" %in% row.names(installed.packages())){
 }
 devtools::install_github("Diegolivia/ValCont")
 ```
-\strong{References:}
+## References:
 
 -   Aiken, L. R. (1980). Content validity and reliability of single items or questionnaires. Educational and Psychological Measurement, 40, 955-959. <https://doi.org/10.1177/001316448004000419>
 -   Aiken, L. R. (1985). Three coefficients for analyzing the reliability and validity of ratings. Educational and Psychological Measurement, 45, 131-142. <https://doi.org/10.1177/0013164485451012>
